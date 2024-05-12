@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/arrohisrivastava0/arrohisrivastava0/main/images/github-header-image.png)
+![Banner](https://raw.githubusercontent.com/arrohisrivastava0/arrohisrivastava0/main/images/github-header.png)
 
 <div align="center">
   
