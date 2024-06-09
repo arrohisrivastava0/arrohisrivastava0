@@ -15,7 +15,7 @@
 ## GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arrohisrivastava0&theme=react)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arrohisrivastava0&theme=gotham&point=ffffff&area=true&hide_border=true" alt="contribution-graph" width="100%">
+
 
 ## Languages 
 <p>
