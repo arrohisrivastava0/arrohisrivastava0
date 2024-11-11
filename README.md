@@ -5,9 +5,7 @@
   <h1>Hi there, I'm Arrohi Srivastava!👋</h1>
   <h2>I'm an Android developer</h2>  
 
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/arrohisrivastava0/arrohisrivastava0/main/images/android.webp" alt="Android Developer">
-</p>
+
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrohisrivastava0&theme=react)
