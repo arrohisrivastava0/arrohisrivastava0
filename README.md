@@ -1,7 +1,6 @@
 <div align="center">
   
   <h1>Hi there, I'm Arrohi Srivastava!👋</h1>
-  <h2>I'm an Android developer</h2>  
 
 
 
