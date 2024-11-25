@@ -1,5 +1,3 @@
-![Banner](https://raw.githubusercontent.com/arrohisrivastava0/arrohisrivastava0/main/images/github-header.png)
-
 <div align="center">
   
   <h1>Hi there, I'm Arrohi Srivastava!👋</h1>
