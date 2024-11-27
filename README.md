@@ -4,7 +4,8 @@
 
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrohisrivastava0&theme=react&cache_seconds=1800)
+![arrohisrivastava0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arrohisrivastava0&theme=react&show_icons=true&layout=compact)
+
 
 ## GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arrohisrivastava0&theme=react)
