@@ -3,8 +3,8 @@
   <h1>Hi there, I'm Arrohi Srivastava!👋</h1>
 
 
-
-
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrohisrivastava0&theme=react&cache_seconds=1800)
 
 ## GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arrohisrivastava0&theme=react)
