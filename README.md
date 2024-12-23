@@ -2,7 +2,6 @@
 
   <h1>Hi there, I'm Arrohi Srivastava!👋</h1>
 
-
 ## Top Languages
 ![arrohisrivastava0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arrohisrivastava0&theme=react&show_icons=true&layout=compact)
 
